@@ -16,22 +16,6 @@ Why have I chosen this Data Set?
 I have chosen the FIFA 21 complete player data set because I am completely into Football
 and I want to combine my passion with my analytical skills.
 
-Data Cleaning
-• Changed sofifa_id Data Type from “int64” to “str”
-• Data set does not contain duplicates
-• Dropped unnecessary columns:
-o player_url
-o league_rank
-o work_rate
-o body_type
-o real_face
-o player_tags
-o team_jersey_number
-o loaned_from
-o nation_jersey_number
-o player_traits
-o defending_marking
-
 Basic descriptive statistical analysis
 The data set has contained 18944 rows and 106 columns before cleaning and after cleaning
 18944 rows and 95 columns.
@@ -43,10 +27,10 @@ the good thing is that data sets from previous FIFA editions are also available 
 data from different FIFA versions.
 
 Questions to explore
-• What are the top ten leagues based on the average FIFA overall ranking?
-• What are the top ten nations based on the average FIFA overall ranking?
+
+• What are the top ten leagues based on the average FIFA overall ranking?What are the top ten nations based on the average FIFA overall ranking?
 • What are the most valuable players (top ten) based on value in Euro?
 • What are the top ten players per position based on the FIFA overall ranking?
 
 Link to my Tableau Story
-click here
+https://public.tableau.com/app/profile/julian.hempe/viz/FIFA21DataAnalysis/FIFA21Analysis?publish=yes
