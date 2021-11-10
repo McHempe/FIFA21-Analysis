@@ -13,14 +13,17 @@ are available for all people who have access to the game itself or multiple othe
 https://sofifa.com.
 
 Why have I chosen this Data Set?
+
 I have chosen the FIFA 21 complete player data set because I am completely into Football
 and I want to combine my passion with my analytical skills.
 
 Basic descriptive statistical analysis
+
 The data set has contained 18944 rows and 106 columns before cleaning and after cleaning
 18944 rows and 95 columns.
 
 Limitations and ethics
+
 This data set is limited by its version. It contains all data of FIFA 21 and it does not contain
 data from previous editions. This means that it is not possible to analyze a time series. But
 the good thing is that data sets from previous FIFA editions are also available to compare
@@ -33,4 +36,5 @@ Questions to explore
 • What are the top ten players per position based on the FIFA overall ranking?
 
 Link to my Tableau Story
+
 https://public.tableau.com/app/profile/julian.hempe/viz/FIFA21DataAnalysis/FIFA21Analysis?publish=yes
